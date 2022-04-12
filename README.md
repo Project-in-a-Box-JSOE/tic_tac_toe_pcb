@@ -7,6 +7,8 @@
 ## Overview
 This workshop is oriented to assembling a handheld Tic-Tac-Toe board with surface mount devices (SMD) and reflow soldering.
 
+The PCB was designed in Autodesk EAGLE
+
 ## BOM
 
 | Component                    | Vendor                                                                                                     | Quantity   |
