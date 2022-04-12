@@ -239,26 +239,6 @@
 <rectangle x1="8.25" y1="15.25" x2="9" y2="15.5" layer="21"/>
 <rectangle x1="9" y1="14.5" x2="9.25" y2="15.5" layer="21"/>
 <text x="25.75" y="23" size="1" layer="21" rot="R180" align="center">ATMEGA328P</text>
-<text x="13.75" y="2" size="0.75" layer="21" rot="R180" align="center-left">PiB TicTacToe 
-[2022]</text>
-<text x="42.5" y="43" size="1" layer="21" rot="R90" align="center">LED1</text>
-<text x="57.5" y="43" size="1" layer="21" rot="R90" align="center">LED2</text>
-<text x="72.5" y="43" size="1" layer="21" rot="R90" align="center">LED3</text>
-<text x="42.5" y="28" size="1" layer="21" rot="R90" align="center">LED4</text>
-<text x="57.5" y="28" size="1" layer="21" rot="R90" align="center">LED5</text>
-<text x="72.5" y="28" size="1" layer="21" rot="R90" align="center">LED6</text>
-<text x="42.5" y="13.25" size="1" layer="21" rot="R90" align="center">LED7</text>
-<text x="57.5" y="13.25" size="1" layer="21" rot="R90" align="center">LED8</text>
-<text x="72.5" y="13.25" size="1" layer="21" rot="R90" align="center">LED9</text>
-<text x="35.65" y="33.5" size="1" layer="21" rot="R180" align="center">S1</text>
-<text x="50.65" y="33.5" size="1" layer="21" rot="R180" align="center">S2</text>
-<text x="65.65" y="33.5" size="1" layer="21" rot="R180" align="center">S3</text>
-<text x="35.65" y="18.5" size="1" layer="21" rot="R180" align="center">S4</text>
-<text x="50.65" y="18.5" size="1" layer="21" rot="R180" align="center">S5</text>
-<text x="65.65" y="18.5" size="1" layer="21" rot="R180" align="center">S6</text>
-<text x="35.65" y="3.75" size="1" layer="21" rot="R180" align="center">S7</text>
-<text x="50.65" y="3.75" size="1" layer="21" rot="R180" align="center">S8</text>
-<text x="65.65" y="3.75" size="1" layer="21" rot="R180" align="center">S9</text>
 </plain>
 <libraries>
 <library name="TAJR106M006R">
@@ -1456,7 +1436,7 @@ by exp-lbrs.ulp</description>
 <attribute name="PACKAGE" value="3116 Yageo" x="4.5" y="20.5" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/RC1206FR-07330RL/?ref=eda" x="4.5" y="20.5" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="U$1" library="PiB_logo" package="PIB_LOGO_10MM" value="" x="3.75" y="4.25" smashed="yes"/>
+<element name="U$1" library="PiB_logo" package="PIB_LOGO_10MM" value="" x="5.25" y="4.25" smashed="yes"/>
 </elements>
 <signals>
 <signal name="AREF">

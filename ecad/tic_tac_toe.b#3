@@ -256,9 +256,6 @@
 <text x="35.65" y="18.5" size="1" layer="21" rot="R180" align="center">S4</text>
 <text x="50.65" y="18.5" size="1" layer="21" rot="R180" align="center">S5</text>
 <text x="65.65" y="18.5" size="1" layer="21" rot="R180" align="center">S6</text>
-<text x="35.65" y="3.75" size="1" layer="21" rot="R180" align="center">S7</text>
-<text x="50.65" y="3.75" size="1" layer="21" rot="R180" align="center">S8</text>
-<text x="65.65" y="3.75" size="1" layer="21" rot="R180" align="center">S9</text>
 </plain>
 <libraries>
 <library name="TAJR106M006R">

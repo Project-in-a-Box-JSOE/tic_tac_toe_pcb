@@ -250,15 +250,7 @@
 <text x="42.5" y="13.25" size="1" layer="21" rot="R90" align="center">LED7</text>
 <text x="57.5" y="13.25" size="1" layer="21" rot="R90" align="center">LED8</text>
 <text x="72.5" y="13.25" size="1" layer="21" rot="R90" align="center">LED9</text>
-<text x="35.65" y="33.5" size="1" layer="21" rot="R180" align="center">S1</text>
-<text x="50.65" y="33.5" size="1" layer="21" rot="R180" align="center">S2</text>
-<text x="65.65" y="33.5" size="1" layer="21" rot="R180" align="center">S3</text>
-<text x="35.65" y="18.5" size="1" layer="21" rot="R180" align="center">S4</text>
-<text x="50.65" y="18.5" size="1" layer="21" rot="R180" align="center">S5</text>
-<text x="65.65" y="18.5" size="1" layer="21" rot="R180" align="center">S6</text>
-<text x="35.65" y="3.75" size="1" layer="21" rot="R180" align="center">S7</text>
-<text x="50.65" y="3.75" size="1" layer="21" rot="R180" align="center">S8</text>
-<text x="65.65" y="3.75" size="1" layer="21" rot="R180" align="center">S9</text>
+<text x="32.9" y="33" size="1" layer="21" rot="R180" align="center">C3</text>
 </plain>
 <libraries>
 <library name="TAJR106M006R">

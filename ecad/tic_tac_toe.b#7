@@ -241,24 +241,8 @@
 <text x="25.75" y="23" size="1" layer="21" rot="R180" align="center">ATMEGA328P</text>
 <text x="13.75" y="2" size="0.75" layer="21" rot="R180" align="center-left">PiB TicTacToe 
 [2022]</text>
-<text x="42.5" y="43" size="1" layer="21" rot="R90" align="center">LED1</text>
-<text x="57.5" y="43" size="1" layer="21" rot="R90" align="center">LED2</text>
-<text x="72.5" y="43" size="1" layer="21" rot="R90" align="center">LED3</text>
-<text x="42.5" y="28" size="1" layer="21" rot="R90" align="center">LED4</text>
-<text x="57.5" y="28" size="1" layer="21" rot="R90" align="center">LED5</text>
-<text x="72.5" y="28" size="1" layer="21" rot="R90" align="center">LED6</text>
-<text x="42.5" y="13.25" size="1" layer="21" rot="R90" align="center">LED7</text>
-<text x="57.5" y="13.25" size="1" layer="21" rot="R90" align="center">LED8</text>
-<text x="72.5" y="13.25" size="1" layer="21" rot="R90" align="center">LED9</text>
-<text x="35.65" y="33.5" size="1" layer="21" rot="R180" align="center">S1</text>
-<text x="50.65" y="33.5" size="1" layer="21" rot="R180" align="center">S2</text>
-<text x="65.65" y="33.5" size="1" layer="21" rot="R180" align="center">S3</text>
-<text x="35.65" y="18.5" size="1" layer="21" rot="R180" align="center">S4</text>
-<text x="50.65" y="18.5" size="1" layer="21" rot="R180" align="center">S5</text>
-<text x="65.65" y="18.5" size="1" layer="21" rot="R180" align="center">S6</text>
-<text x="35.65" y="3.75" size="1" layer="21" rot="R180" align="center">S7</text>
-<text x="50.65" y="3.75" size="1" layer="21" rot="R180" align="center">S8</text>
-<text x="65.65" y="3.75" size="1" layer="21" rot="R180" align="center">S9</text>
+<text x="44.5" y="43" size="1" layer="21" rot="R90" align="center">RESET
+</text>
 </plain>
 <libraries>
 <library name="TAJR106M006R">
