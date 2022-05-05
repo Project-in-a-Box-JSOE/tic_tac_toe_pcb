@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
 **A project series hosted by Project in a Box at UCSD**
-> Workshop documentation [Tic-Tac-Toe Guide](https://docs.google.com/document/d/1u_CGRj01X6Ycehi84Y9_JdpaqWEYwmZDjyTEvfT5QpA/edit?usp=sharing)<br />
+> Workshop documentation [Tic-Tac-Toe Guide](https://docs.google.com/presentation/d/1Ihq2s2tMd88KeOKXIFUcY-OSz5jwRyJ442QZBEG7MqE/edit#slide=id.g12576c3175b_0_320)<br />
 > More about [Project in a Box](https://pibucsd.org/)
 
 ## Overview
